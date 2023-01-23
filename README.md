@@ -8,8 +8,10 @@ __bold__
  
  
  My favourite musical artists are:
- *The beatles
- *Bob Dylan
- *Drake
+ * The beatles
+  * Four guys
+  * from liverpool
+ * Bob Dylan
+ * Drake
  
  
