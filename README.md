@@ -14,4 +14,23 @@ __bold__
  * Bob Dylan
  * Drake
  
+* Go to the store
+ * Buy Food
+ * Rice
+* Beans
+* Come home
+ 
+ 
+ 
+ Making a list
+ 1. first
+ 2. second
+   * sublist1
+   * ----
+ 3. third
+ 1. fourth 
+ 
+ 
+ 
+ --------------------------------------------------------
  
